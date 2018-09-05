@@ -4,7 +4,7 @@ Basic calculator app for iOS devices using Swift 4 and Xcode 9. Created for lear
 ![alt text](https://github.com/prateekguptaiiitk/Calculator/blob/master/Calculator/Calculator/screenshots/Calculator.png)
 
 ## How to use
-Just download source code and unzip the downloaded folder and opne project in Xcode.
+Just download source code and unzip the downloaded folder and open project in Xcode.
 
 #### Using Terminal:
 
