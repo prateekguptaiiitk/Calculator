@@ -1,4 +1,4 @@
-# ios Calculator Application
+# iOS Calculator Application
 Basic calculator app for iOS devices using Swift 4 and Xcode 9. Created for learning purpose.
 
 ![alt text](https://github.com/prateekguptaiiitk/Calculator/blob/master/Calculator/Calculator/screenshots/Calculator.png)
